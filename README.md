@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ### 5. Set Up Environment Variables
 
-Setup the environment variables from the env.txt file on your system and then restart the system.
+Set the environment variables from the env.txt file on your system and then restart the system. You may want to change the variables for you own setup.
 
 
 ### 6. Start Docker Containers
